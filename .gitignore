@@ -1,0 +1,5 @@
+/dc-venv/
+.idea
+/retail_pg/
+/requirements.txt
+/app.py
